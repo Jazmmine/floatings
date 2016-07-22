@@ -1,0 +1,21 @@
+.padre {
+	border: 1px solid black;
+}
+.clearfix{
+	overflow: auto;
+}
+
+.hijo1,.hijo2,.hijo3{
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+.hijo1{
+	background-color: yellow;
+}
+.hijo2{
+	background-color: blue;
+}
+.hijo3{
+	background-color: red;
+}

@@ -1,0 +1,18 @@
+.padre {
+	width: 900px;
+	border: 1px solid black;
+}
+.padre div{
+	width: 25%;
+	height: 100px;
+	float: left;
+}
+.hijo1{
+	background-color: yellow;
+}
+.hijo2{
+	background-color: blue;
+}
+.hijo3{
+	background-color: red;
+}
